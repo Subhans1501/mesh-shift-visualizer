@@ -4,7 +4,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Live Demo:** [View on Vercel](https://mesh-shift-visualizer-jv0rg8bln-subhans1501s-projects.vercel.app)
+**Live Demo:** [View on Vercel](https://mesh-shift-visualizer-jv0rg8bln-subhans1501s-projects.vercel.app)   
 
 ## Overview
 The **Mesh Circular Shift Visualizer** is a front-end web application built to simulate and analyze data routing algorithms in parallel computing architectures. 
